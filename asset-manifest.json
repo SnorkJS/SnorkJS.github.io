@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.22618614.css",
-    "main.js": "/static/js/main.0109a21a.js",
+    "main.js": "/static/js/main.f1209674.js",
     "static/media/MM93Phone.png": "/static/media/MM93Phone.0d18d5fcf14bd7c517f1.png",
     "static/media/FB63Phone.png": "/static/media/FB63Phone.2581a6f78d2bf7f29ac4.png",
     "static/media/FQ20Phone.png": "/static/media/FQ20Phone.ca1ae91319e6a556094a.png",
@@ -47,10 +47,10 @@
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.0994819c4416f510adad.svg",
     "main.22618614.css.map": "/static/css/main.22618614.css.map",
-    "main.0109a21a.js.map": "/static/js/main.0109a21a.js.map"
+    "main.f1209674.js.map": "/static/js/main.f1209674.js.map"
   },
   "entrypoints": [
     "static/css/main.22618614.css",
-    "static/js/main.0109a21a.js"
+    "static/js/main.f1209674.js"
   ]
 }
